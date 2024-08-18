@@ -1,6 +1,6 @@
 # Welcome to my Data Analyst Portfolio
-
-## Here you can see all the projects that i created and worked on! :grin:
+## Contact me :point_right: [Linkedin](https://www.linkedin.com/in/mviniortiz/) | [WhatsApp](https://wa.me/5548991696887) | [Email](mviniciusortiz48@gmail.com)
+### Here you can see all the projects that i created and worked on! :grin:
 
 # Business Intelligence Project: BrightBuy
 
@@ -15,15 +15,31 @@
 ### Skills used: Data Analysis, PowerBI, Excel, Python, ChatGPT and Figma.
 [Click here to see the project](https://app.powerbi.com/view?r=eyJrIjoiZGIwMzIyYWYtYTQxZi00OTAzLWEwYzgtYWE3OGJkNDU2YmMzIiwidCI6IjMyNTU3NjRiLTdiNWItNDY0Ni1hN2I0LWJmOTU3MmM2OGFhZSJ9)
 
-
+---
 # Marketing Campaign Analysis: Mentory
 
-* Developed an interactive marketing performance dashboard using Looker Studio, where my focus was on analyzing the main KPIs from Google Ads, TikTok Ads and Facebook Ads.
-* With the help of ChatGPT, implemented several KPIs to check the health of all the campaigns running in real time.
-* Using Looker Studio, i've created some visually engaging dashboard featuring line charts, bar graphs and several cards to show performance indicators.
-* Created an tracking system using UTMs and Excel which we could see what campaign was performing the most.
+* **Developed** an interactive marketing performance dashboard using Looker Studio, where my focus was on analyzing the main KPIs from Google Ads, TikTok Ads and Facebook Ads.
+* With the help of ChatGPT, **implemented several KPIs** to check the health of all the campaigns running in real time.
+* Using Looker Studio, i've **created some visually engaging dashboard** featuring line charts, bar graphs and several cards to show performance indicators.
+* **Created an tracking system** using UTMs and Excel which we could see what campaign was performing the most.
 
 ![image](https://github.com/user-attachments/assets/9edcf81c-346d-4772-a786-60accd1711e9)
 
 ### Skills used: Looker Studio, Excel, Python, ChatGPT and Figma.
 [Click here to see the project](https://lookerstudio.google.com/u/1/reporting/fc732a2b-2610-403c-abbd-62a9c21c6f9e/page/UqNbD)
+
+---
+# Business Intelligence Project: Spotify
+
+* Created an interactive music performance analysis dashboard for Spotify using PowerBI, focused on analyzing what musics were played the most in 2023.
+* Implemented the use of machine learning using linear regression for measuring what was going to be the most played musics in 2024.
+* Created dynamic visuals and graphics featuring line charts, an image of the most played song of the month using HTML, moving averages, and several filters to see data from different perspective.
+* Data modeled the tables inside the Power BI and used DAX language to create new measures to ensure powerful insights from the data.
+
+![image](https://github.com/user-attachments/assets/c019e917-7a00-414c-901a-bfb46753dca3)
+
+### Skills used: PowerBI, Python, and Excel. 
+
+---
+### All directs reserved to Markus.
+
