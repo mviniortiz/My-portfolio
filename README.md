@@ -1,6 +1,6 @@
 # Welcome to my Data Analyst Portfolio
-## Contact me :point_right: [Linkedin](https://www.linkedin.com/in/mviniortiz/) | [WhatsApp](https://wa.me/5548991696887) | [Email](mviniciusortiz48@gmail.com)
-### Here you can see all the projects that i created and worked on! :grin:
+## Contact me [Linkedin](https://www.linkedin.com/in/mviniortiz/) | [WhatsApp](https://wa.me/5548991696887) | [Email](mviniciusortiz48@gmail.com)
+### Here you can see all the projects that i created and worked on!
 
 # Business Intelligence Project: BrightBuy
 
@@ -31,10 +31,10 @@
 ---
 # Business Intelligence Project: Spotify
 
-* Created an interactive music performance analysis dashboard for Spotify using PowerBI, focused on analyzing what musics were played the most in 2023.
-* Implemented the use of machine learning using linear regression for measuring what was going to be the most played musics in 2024.
-* Created dynamic visuals and graphics featuring line charts, an image of the most played song of the month using HTML, moving averages, and several filters to see data from different perspective.
-* Data modeled the tables inside the Power BI and used DAX language to create new measures to ensure powerful insights from the data.
+* **Created** an interactive music performance analysis dashboard for Spotify using PowerBI, focused on analyzing what musics were played the most in 2023.
+* **Implemented** the use of machine learning using linear regression for measuring what was going to be the most played musics in 2024.
+* **Created dynamic** visuals and graphics featuring line charts, an image of the most played song of the month using HTML, moving averages, and several filters to see data from different perspective.
+* **Data modeled** the tables inside the Power BI and used DAX language to create new measures to ensure powerful insights from the data.
 
 ![image](https://github.com/user-attachments/assets/c019e917-7a00-414c-901a-bfb46753dca3)
 
