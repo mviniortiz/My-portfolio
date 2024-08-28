@@ -41,5 +41,20 @@
 ### Skills used: PowerBI, Python, and Excel. 
 
 ---
+# Sales Analysis: Case Project
+
+* **Elaborated** an general sales analysis dashboard for an case project using Power BI, Excel and Python, focused on analyzing what products were the most sold.
+* **Created** the visuals and background using Figma and PowerPoint for visually impactful graphics.
+* **Modeling data** with Power BI and Excel with the help of ChatGPT-4o which i united all of 9 tables into 1 table. That helped me to create complex measures.
+* Used **Pareto Law** to measure which product was the most sold on the company.
+
+![image](https://github.com/user-attachments/assets/99ea5b42-bf8d-485e-8b87-d5c8219ca630)
+
+### Skills used: PowerBI, Python, ChatGPT-4o and Excel.
+
+---
+
+
+---
 #### All directs reserved to Markus.
 
