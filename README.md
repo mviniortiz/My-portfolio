@@ -51,10 +51,7 @@
 ![image](https://github.com/user-attachments/assets/99ea5b42-bf8d-485e-8b87-d5c8219ca630)
 
 ### Skills used: PowerBI, Python, ChatGPT-4o and Excel.
-
 [Click here to see the project](https://app.powerbi.com/view?r=eyJrIjoiNTEyNmFkOGQtZTU5YS00MzlkLTk5MzMtYjhkOGVlOTFmNDc5IiwidCI6IjMyNTU3NjRiLTdiNWItNDY0Ni1hN2I0LWJmOTU3MmM2OGFhZSJ9)
----
-
 
 ---
 #### All directs reserved to Markus.
