@@ -52,6 +52,7 @@
 
 ### Skills used: PowerBI, Python, ChatGPT-4o and Excel.
 
+[Click here to see the project](https://app.powerbi.com/view?r=eyJrIjoiNTEyNmFkOGQtZTU5YS00MzlkLTk5MzMtYjhkOGVlOTFmNDc5IiwidCI6IjMyNTU3NjRiLTdiNWItNDY0Ni1hN2I0LWJmOTU3MmM2OGFhZSJ9)
 ---
 
 
